@@ -1,0 +1,18 @@
+{
+    "version": "0.0.1",
+    "name": "cordova-plugin-rtmp-live-streamer",
+    "cordova_name": "Cordova RTMP Live Streamer",
+    "description": "Cordova RTMP Live Streamer",
+    "license": "MIT",
+    "repo": "https://github.com/VarsitySoftware/cordova-plugin-rtmp-live-streamer.git",
+    "keywords": [
+        "cordova",
+        "ios",       
+        "ios9"
+    ],
+    "platforms": [
+        "ios"
+    ],
+    "engines": [],
+    "englishdoc": ""
+}
