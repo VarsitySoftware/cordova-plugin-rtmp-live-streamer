@@ -6,8 +6,8 @@ Based on https://github.com/LaiFengiOS/LFLiveKit
 
 # Install
 
-  $ cordova plugin add https://github.com/VarsitySoftware/cordova-plugin-rtmp-live-streamer
+`$ cordova plugin add https://github.com/VarsitySoftware/cordova-plugin-rtmp-live-streamer`
 
 # Future Features
 
-Android support using Cordova RTMP/RTSP Streamer https://github.com/disono/cordova-rtmp-rtsp-stream
+- [ ] Android support using Cordova RTMP/RTSP Streamer https://github.com/disono/cordova-rtmp-rtsp-stream
