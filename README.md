@@ -6,7 +6,7 @@ Based on https://github.com/LaiFengiOS/LFLiveKit
 
 # Install
 
-- $ cordova plugin add https://github.com/VarsitySoftware/cordova-plugin-rtmp-live-streamer
+* $ cordova plugin add https://github.com/VarsitySoftware/cordova-plugin-rtmp-live-streamer
 
 # Future Features
 
