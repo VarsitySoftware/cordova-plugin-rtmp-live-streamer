@@ -48,6 +48,16 @@ streamer.start(
     },
     options
 );
+
+streamer.stop(
+    (results) => {
+        console.log('Results: ' + results);
+    },
+    (error) => {
+        console.log('Error: ' + error);
+    },
+    null
+);
 ```
 
 # Future Features
