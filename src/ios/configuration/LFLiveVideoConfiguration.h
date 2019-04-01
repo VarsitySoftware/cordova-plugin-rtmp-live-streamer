@@ -58,9 +58,9 @@ typedef NS_ENUM (NSUInteger, LFLiveVideoQuality){
 /// @name Attribute
 ///=============================================================================
 
-@property (nonatomic, assign) NSString * videoTitleStart;
-@property (nonatomic, assign) NSString * videoTitlePaused;
-@property (nonatomic, assign) NSString * videoTitleEnd;
+@property (nonatomic, copy) NSString * videoTitleStart;
+@property (nonatomic, copy) NSString * videoTitlePaused;
+@property (nonatomic, copy) NSString * videoTitleEnd;
 
 /// 视频的分辨率，宽高务必设定为 2 的倍数，否则解码播放时可能出现绿边(这个videoSizeRespectingAspectRatio设置为YES则可能会改变)
 @property (nonatomic, assign) CGSize videoSize;
